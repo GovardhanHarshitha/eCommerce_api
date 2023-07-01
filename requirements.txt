@@ -1,0 +1,9 @@
+flask
+fastapi
+pymysql
+uvicorn
+socket
+starlette
+python-jose
+python-multipart
+jose
