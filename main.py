@@ -365,4 +365,5 @@ def check_same_digits(number):
 
 
 if __name__ == '__main__':
+    # rks
     uvicorn.run(app)
